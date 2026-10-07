@@ -1,24 +1,24 @@
-# 🧪 Lab & Exploration
+# Lab & Exploration
 
 Un laboratoire de recherche et d'expérimentation technologique sous forme de **monorepo avec Git Submodules**.
 
-Ce dépôt regroupe différents micro-projets et PoC (*Proof of Concept*) servant à tester, éprouver et maîtriser de nouvelles technologies et briques logicielles avant leur intégration dans des projets plus larges.
+Ce dépôt regroupe différents micro-projets servant à découvrir et tester de nouvelles technologies et briques logicielles avant leur intégration dans des projets plus larges.
 
 ---
 
-## 🎯 Philosophie & Approche
+## Philosophie & Approche
 
 > **Comprendre la mécanique plutôt que réinventer la syntaxe.**
 
 Ces explorations sont menées avec l'aide d'outils d'**IA générative**. L'objectif premier n'est pas d'écrire chaque ligne de code à la main, mais de :
-- 🧠 **Comprendre l'architecture et la logique interne** des outils et librairies explorés.
-- ⚡ **Tester la faisabilité et les limites** d'une approche technique rapidement.
-- 🏗️ **Valider des cas d'usage réels** pour alimenter des projets plus matures.
-- 📐 **Développer une vision système** : flux de données, intégration d'API, contraintes de performance et d'expérience utilisateur.
+-  **Comprendre l'architecture et la logique interne** des outils et librairies explorés.
+-  **Tester la faisabilité et les limites** d'une approche technique rapidement.
+-  **Valider des cas d'usage réels** pour alimenter des projets plus matures.
+-  **Développer une vision système** : flux de données, intégration d'API, contraintes de performance et d'expérience utilisateur.
 
 ---
 
-## 📂 Modules & Projets
+##  Modules & Projets
 
 Chaque projet est maintenu dans son propre sous-module Git afin de préserver son cycle de vie, son historique indépendant et la gestion fine de ses accès :
 
@@ -29,7 +29,7 @@ Chaque projet est maintenu dans son propre sous-module Git afin de préserver so
 
 ---
 
-## 🚀 Prise en main
+## Prise en main
 
 ### Cloner ce dépôt et initialiser tous les sous-modules
 
@@ -50,7 +50,7 @@ git submodule update --init --recursive
 
 ---
 
-## 🛠️ Gestion des sous-modules au quotidien
+## Gestion des sous-modules au quotidien
 
 ### Mettre à jour tous les sous-modules avec leur dernière version
 ```bash
