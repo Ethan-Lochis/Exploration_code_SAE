@@ -1,0 +1,6 @@
+[submodule "Chatbot"]
+	path = Chatbot
+	url = https://github.com/Ethan-Lochis/IA-feytiat-tests.git
+[submodule "leaflet"]
+	path = leaflet
+	url = https://github.com/Ethan-Lochis/Leaflet.git
