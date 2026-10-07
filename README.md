@@ -36,7 +36,7 @@ Chaque projet est maintenu dans son propre sous-module Git afin de préserver so
 Pour récupérer l'ensemble des projets en une seule étape :
 
 ```bash
-git clone --recurse-submodules https://github.com/<votre-compte>/Exploration.git
+git clone --recurse-submodules https://github.com/Ethan-Lochis/Exploration_code_SAE.git
 ```
 
 Si le dépôt principal a déjà été cloné sans les sous-modules :
